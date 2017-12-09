@@ -111,8 +111,8 @@ public class ApiRequest {
 	public static void main(String[] args) throws Exception {
 
 		ApiRequest http = new ApiRequest();
-		String acessToken ="badfac65e4e63fe72432f28bba6a729eff2db1ea";//"6394ffc8cd19c69af2706d59eb29d728b836c883";// "e504327b313af069d5744f0941244e650c257288";//"af13c51fa3b9d9ca95267a291cd36edb3ba32503" 
-		String acessTokenSecond = "e6079cb8e5fa8076fa62b841f48c7bdf278739dd";//"d5aaf179249f5934bd1fa17b2aa2aec35e1d1b88"; 
+		String acessToken ="";
+		String acessTokenSecond = ""; 
 		boolean alternate = true;
 		int page = 1;
 		int LowerStarLimit = 850;
